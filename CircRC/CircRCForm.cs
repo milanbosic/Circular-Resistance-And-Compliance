@@ -121,7 +121,8 @@ namespace CircRC
                 //float[] results = GetValues(buffer);
                 //textComplianceRl.Text = results[0].ToString();
                 //textComplianceRt.Text = results[1].ToString();
-
+                
+                //Temporary example text, for showcasing
                 textResistanceRl.Text = "0.489123";
                 textResistanceRt.Text = "1.536489";
 
@@ -171,6 +172,8 @@ namespace CircRC
                 //float[] results = GetValues(buffer);
                 //textComplianceRl.Text = results[0].ToString();
                 //textComplianceRt.Text = results[1].ToString();
+                
+                //Temporary example text, for showcasing
                 textComplianceRl.Text = "3.129123";
                 textComplianceRt.Text = "5.336489";
 
